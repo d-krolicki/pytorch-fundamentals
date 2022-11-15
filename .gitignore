@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+Untitled.ipynb
+Untitled1.ipynb
+data/MNIST/raw/
+main.py
+manual_gradient_descent.ipynb
+pytorch_env.yml
